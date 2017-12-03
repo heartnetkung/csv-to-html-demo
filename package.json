@@ -1,0 +1,11 @@
+{
+  "name": "csv-to-html-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:heartnetkung/csv-to-html-demo.git",
+  "author": "heartnetkung <heartnetkung@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^2.0.0"
+  }
+}
